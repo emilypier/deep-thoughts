@@ -14,7 +14,7 @@
 * [Questions](#questions)
 
 ## Description 
-A social media website that allows users to create an account/log in, share thoughts, react to other users' thoughts, add friends.
+A MERN app that allows users to create an account/log in, share thoughts, react to other users' thoughts, add friends.
 
 
 ## Usage
