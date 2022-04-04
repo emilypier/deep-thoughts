@@ -5,6 +5,8 @@
 
 * [Description](#description)
 
+* [Installation](#installation)
+
 * [Usage](#usage)
 
 * [License](#license)
@@ -16,6 +18,8 @@
 ## Description 
 A MERN app that allows users to create an account/log in, share thoughts, react to other users' thoughts, add friends.
 
+## Installation
+Clone the repository from GitHub and install dependencies. For development or testing, run `npm install` on both client and server directories to install dependencies. There are two servers- one on the client side and one on the server side. You can run both sepeartaely or at the same time. To run both servers at the same time, run `npm start` in the root directory.
 
 ## Usage
 Visit the [site](https://stormy-castle-96995.herokuapp.com/)!
